@@ -1,0 +1,30 @@
+APP MEDICA
+
+Aplicación que se encargue de llevar el control de “n” pacientes
+
+MEDICO
+
+* Registrar, modificar, eliminar a pacientes
+* Llevar el expediente del paciente, fotos, avances medicos ( podrá generar una titulo de consulta para poder almacenar * distintas descripciones). 
+* Agendar citas
+* Modificar citas
+* Cancelar citas
+* Elegir el tiempo de la consulta
+* Validar que no exista una consulta en las citas agendadas
+* Notificaciones push por paciente o en general.
+* Contactar al paciente via telefonica
+* Mostrar las citas del día.
+
+
+
+
+PACIENTE
+
+* Conocer las citas previas, proximas citas así como sus avances medicos
+* Cancelar citas
+* Contactar al medico o consultorio
+* Enviar alertas de citas para evitar que el paciente olvide su cita
+
+
+
+* poder agendar a pacientes sin registro
